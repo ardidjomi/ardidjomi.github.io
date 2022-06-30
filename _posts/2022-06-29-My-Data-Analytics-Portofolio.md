@@ -13,8 +13,8 @@ Creating cohort analysis using python > [Find my work on kaggle](https://www.kag
 #### Data Visualization
 Explore Tableau and Google Data Studio > [Click here to see detail](https://drive.google.com/file/d/1mHDtUWGB75Wklrh19YZc4bQrt-p8xBQ0/view?usp=sharing)
 
-#### End-to-end Analysis
-My experience doing end-to-end analysis from understanding business problem, preparing and exploring data, analyzing and getting insight from data. > [Click here to see detail](https://drive.google.com/file/d/1HDXLxm_4c8C87sCArQK9OAy-cSo1j4Yv/view?usp=sharing)
+#### End-to-end Data Analytics
+My experience doing end-to-end data analytics from understanding business problem, preparing and exploring data, analyzing and getting insight from data. > [Click here to see detail](https://drive.google.com/file/d/1HDXLxm_4c8C87sCArQK9OAy-cSo1j4Yv/view?usp=sharing)
 
 ### Certification and Training
 I have also completed several online courses and bootcamp
