@@ -11,7 +11,8 @@ Cohort Analysis using SQL Google BigQuery > [Click here to see detail](https://d
 Creating cohort analysis using python > [Find my work on kaggle](https://www.kaggle.com/code/habispakai/cohort-analysis/notebook) 
 
 #### Data Visualization
-Creating Dashboard for Mid-level Management in Fintech =>[Click here to see detail] (https://public.tableau.com/app/profile/ardi4986/viz/ManagerialDashboard_v6/Dashboard12)
+Creating Dashboard for Mid-level Management in Fintech =>[Click here to see detail(https://public.tableau.com/app/profile/ardi4986/viz/ManagerialDashboard_v6/Dashboard12)
+
 Explore Tableau and Google Data Studio > [Click here to see detail](https://drive.google.com/file/d/1mHDtUWGB75Wklrh19YZc4bQrt-p8xBQ0/view?usp=sharing)
 
 #### End-to-end Data Analytics
